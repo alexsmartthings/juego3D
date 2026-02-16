@@ -1,6 +1,0 @@
-res://scenes/level.tscn
-res://config/world_environment.tres
-res://resources/scripts/player.gd
-res://scenes/gui.tscn
-res://resources/scripts/bee.gd
-res://resources/scripts/coin.gd
