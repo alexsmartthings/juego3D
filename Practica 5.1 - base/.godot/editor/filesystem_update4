@@ -1,0 +1,10 @@
+res://scenes/player.tscn
+res://config/world_environment.tres
+res://resources/scripts/player.gd
+res://resources/scripts/bee_path.gd
+res://resources/scripts/camera.gd
+res://scenes/gui.tscn
+res://resources/scripts/coin.gd
+res://resources/scripts/hazard_spike.gd
+res://scenes/level.tscn
+res://resources/scripts/cube_wooden.gd
